@@ -2,3 +2,5 @@
 .env.*
 !.env.example
 secrets/
+disaster-recovery/backups/*.tar.gz
+disaster-recovery/backups/original-checksum.txt
